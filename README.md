@@ -1,4 +1,4 @@
-# Rice-OpenCourse-practice
+# Rice University Python courses
 Some HW practice in Fundamentals of Computing(Rice University)
 By Bill Chang
 
