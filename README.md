@@ -1,7 +1,7 @@
 # Rice University Python Homework
 Some HW practice in Fundamentals of Computing(Rice University)
 By Bill Chang
-
+Press the start bottom to play the demo.
 ## An Introduction to Interactive Programming in Python (Part 1)
 Mini-project #1 - Rock-paper-scissor-lizard-Spock
 >http://www.codeskulptor.org/#user42_fzphVJAIlT_5.py
