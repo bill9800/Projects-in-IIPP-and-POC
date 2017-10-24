@@ -1,5 +1,4 @@
-# Rice University Python Homework
-Some HW practice in Fundamentals of Computing(Rice University)
+# Rice University Python Projects
 
 By Bill Chang
 
