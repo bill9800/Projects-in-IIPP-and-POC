@@ -27,7 +27,11 @@ Mini-project #6 - Blackjack
 Mini Project #7 - Spaceship (prepare for RiceRocks)
 >http://www.codeskulptor.org/#user42_6WHTTxqRhH_67.py
 
-Mini Project #8 - RiceRocks (Asteroids)
+Final Project #8 - RiceRocks (Asteroids)
+
+- push space to shoot
+- push up down right left bottom to move and rotate
+
 >http://www.codeskulptor.org/#user42_Na9pUFexxV_84.py
 
 ## Principles of Computing (Part 1)
